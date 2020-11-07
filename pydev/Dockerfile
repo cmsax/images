@@ -1,4 +1,4 @@
-FROM python:3-alpine
+FROM python:3.8-alpine
 
 LABEL maintainer="mingshi cai <i@unoiou.com>"
 LABEL description="python development envrionment"
